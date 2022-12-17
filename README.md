@@ -5,4 +5,5 @@
 作業2 - [Unit02_Numpy, Pandas, Matplolib, Seaborn實作](https://github.com/kuanyisung/IMLP372/tree/main/unit02)<br>
 作業3 - [Unit03_Categorical_features, Prepocessing, scikit_learn_Basic實作](https://github.com/kuanyisung/IMLP372/tree/main/unit03)<br>
 作業4 - [Unit04_Linear Regression_HW.ipynb](https://github.com/kuanyisung/IMLP372/blob/main/Linear%20Regression_HW.ipynb)<br>
-作業5 - [Unit05_Logistic regression, SVM實戰](https://github.com/kuanyisung/IMLP372/tree/main/unit05)
+作業5 - [Unit05_Logistic regression, SVM實戰](https://github.com/kuanyisung/IMLP372/tree/main/unit05)<br>
+作業6 - [Unit06_ConfusionMatrix, Ensemble實戰](https://github.com/kuanyisung/IMLP372/tree/main/unit06)
